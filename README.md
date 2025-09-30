@@ -38,11 +38,12 @@ git config --global user.email "youremail@example.com"
 - **Remote** – A version of your repository that is hosted on the internet or a network (like GitHub).  
 - **Repository** – A storage space where your project files and their version history are kept.
 
-# Works Cited
-Chacon, S., & Straub, B. *Pro Git*. Apress, 2014. Available at: https://git-scm.com/book/en/v2  
-
-JetBrains. *WebStorm Documentation*. JetBrains, n.d. Available at: https://www.jetbrains.com/webstorm/download/  
-
-GitHub Docs. *GitHub Documentation*. GitHub, n.d. Available at: https://docs.github.com/  
-
-Git Project. *Git Downloads*. Git, n.d. Available at: https://git-scm.com/downloads  
+# Works Cited and References:
+- Git. (n.d.). *Git Downloads*. Retrieved from https://git-scm.com/downloads  
+- Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress. Retrieved from https://git-scm.com/book/en/v2  
+- JetBrains. (n.d.). *WebStorm: The Smartest JavaScript IDE*. Retrieved from https://www.jetbrains.com/webstorm/download/  
+- JetBrains. (n.d.). *Using Git Integration in WebStorm*. Retrieved from https://www.jetbrains.com/help/webstorm/using-git-integration.html  
+- GitHub Docs. (n.d.). *Creating a New Repository*. Retrieved from https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository  
+- GitHub. (n.d.). *GitHub Desktop*. Retrieved from https://desktop.github.com/  
+- JetBrains. (n.d.). *Resolve Conflicts in WebStorm*. Retrieved from https://www.jetbrains.com/help/webstorm/resolve-conflicts.html
+- Atlassian. *Git Glossary*. Atlassian, n.d. Available at: https://www.atlassian.com/git/glossary  
