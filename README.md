@@ -38,8 +38,7 @@ git config --global user.email "youremail@example.com"
 ### 4: Create a New **Repository** Called A02
 1. After logging into **Github**, click the + icon in the top right corner.  
 2. Select New **Repository**.  
-3. In the **Repository** name field, type:  A02
-> ⚠️ Make sure you use a capital A in A02 (it matters!).  
+3. In the **Repository** name field, type:  A02 
 4. (Optional) Add a description of your project.  
 5. Check the box Add a README file.  
 6. Click Create **Repository**.  
