@@ -6,7 +6,7 @@
 
 ## Step 1: Create a GitHub Account
 1. Go to [https://github.com](https://github.com).  
-2. Click on **Sign Up** in the top right corner.  
+2. Click on Sign Up in the top right corner.  
 3. Follow the prompts to create your account:  
    - Enter your email address.  
    - Create a secure password.  
@@ -16,11 +16,9 @@
 ---
 
 ## Step 2: Create a New Repository Called **A02**
-1. After logging into GitHub, click the **+** icon in the top right corner.  
-2. Select **New repository**.  
-3. In the **Repository name** field, type:  
-A02
-**Make sure you use a capital **A** in A02.**  
+1. After logging into GitHub, click the plus icon in the top right corner.  
+2. Select New repository.  
+3. In the Repository name field, type "A02" Make sure you use a capital **A** in A02. 
 4. (Optional) Add a description of your project.  
 5. Check the box **Add a README file**.  
 6. Click **Create repository**.  
