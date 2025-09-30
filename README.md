@@ -6,7 +6,7 @@
 
 ---
 
-# PART 1: Directions on Using WebStorm
+## PART 1: Directions on Using WebStorm
 
 > Notes: Throughout these instructions replace `YourName`, `YourEmail`, `YourUsername`, and `A02` with your info. The remote repository name for this assignment should be `A02` (capital A matters).
 
@@ -21,9 +21,6 @@ Open a terminal (or Git Bash on Windows) and run:
 git config --global user.name "YourName"
 git config --global user.email "youremail@example.com"
 ```
-# Tutorial: How to Use **Github**
-
-This guide will walk you through the process of creating a **Github** account, setting up a **Repository**, and submitting your work.
 
 ---
 
