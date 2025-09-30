@@ -4,42 +4,23 @@
 2. Git (command line): https://git-scm.com/downloads
 3. Github account: Make an account and create an account page: https://github.com/
 
-## Step 1: Create a **GitHub** Account
-1. Go to [https://github.com](https://github.com).  
-2. Click on Sign Up in the top right corner.  
-3. Follow the prompts to create your account:  
-   - Enter your email address.  
-   - Create a secure password.  
-   - Choose a unique username.  
-   - Verify your email.  
-
 ---
 
-## Step 2: Create a **New Repository** Called A02
-1. After logging into **GitHub**, click the plus icon in the top right corner.  
-2. Select New repository.  
-3. In the Repository name field, type "A02" Make sure you use a capital **A** in A02. 
-4. (Optional) Add a description of your project.  
-5. Check the box **Add a README file**.  
-6. Click **Create repository**.  
+# PART 1: Directions on Using WebStorm
 
----
+> Notes: Throughout these instructions replace `YourName`, `YourEmail`, `YourUsername`, and `A02` with your info. The remote repository name for this assignment should be `A02` (capital A matters).
 
-## Step 3: Enter the Required Information into the README.md
-Your **repository** already includes a README.md. Edit it by:  
-1. Opening the README.md file in your new repository.  
-2. Clicking the pencil icon in the top-right corner of the file.  
-3. Adding your tutorial information .  
-4. Scrolling down and clicking commit changes to save.  
+### 1. Install software
+1. Install **GIT** from the link above and follow the platform-specific installer steps (Windows: Git for Windows; macOS and Linux have installers on that page).  
+2. Install WebStorm using the JetBrains installer for your OS. Sign into your JetBrains account if requested.  
+3. (Optional) Install GitHub Desktop if you prefer a GUI client vs. command-line.
 
----
-
-## Step 4: Submit the **Repository** Link to Canvas
-1. Go to your **repository's** main page.  
-2. Copy the URL from your browser’s address bar. It will look like this: https://github.com/YourUsername/A02
-3. Log in to Canvas.  
-4. Open the assignment submission page.  
-5. Paste your **GitHub** repository link and submit.
+### 2. Configure **GIT** (one-time setup)
+Open a terminal (or Git Bash on Windows) and run:
+```bash
+git config --global user.name "YourName"
+git config --global user.email "youremail@example.com"
+```
 
 
 # Part 2: Glossary  
@@ -55,4 +36,13 @@ Your **repository** already includes a README.md. Edit it by:
 - **Push** – Sending your local commits to a remote repository on GitHub.  
 - **Pull** – Fetching changes from a remote repository and merging them into your local branch.  
 - **Remote** – A version of your repository that is hosted on the internet or a network (like GitHub).  
-- **Repository** – A storage space where your project files and their version history are kept.  
+- **Repository** – A storage space where your project files and their version history are kept.
+
+# Works Cited
+Chacon, S., & Straub, B. *Pro Git*. Apress, 2014. Available at: https://git-scm.com/book/en/v2  
+
+JetBrains. *WebStorm Documentation*. JetBrains, n.d. Available at: https://www.jetbrains.com/webstorm/download/  
+
+GitHub Docs. *GitHub Documentation*. GitHub, n.d. Available at: https://docs.github.com/  
+
+Git Project. *Git Downloads*. Git, n.d. Available at: https://git-scm.com/downloads  
