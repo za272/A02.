@@ -39,4 +39,20 @@ Your repository already includes a `README.md`. Edit it by:
 2. Copy the URL from your browser’s address bar. It will look like this: https://github.com/YourUsername/A02
 3. Log in to Canvas.  
 4. Open the assignment submission page.  
-5. Paste your GitHub repository link and submit. 
+5. Paste your GitHub repository link and submit.
+
+
+# Part 2: Glossary  
+
+- **Branch** – A separate line of development in a project that allows you to work on features or fixes without affecting the main code.  
+- **Clone** – A local copy of a remote repository, created on your computer.  
+- **Commit** – A snapshot of your project at a specific point in time, with a message describing the change.  
+- **Fetch** – The action of downloading updates from a remote repository without applying them to your local work.  
+- **GIT** – A distributed version control system that tracks changes in source code during software development.  
+- **Github** – A cloud-based platform that hosts Git repositories and provides collaboration tools.  
+- **Merge** – The process of combining changes from one branch into another.  
+- **Merge Conflict** – An issue that happens when two sets of changes affect the same part of a file and Git cannot automatically combine them.  
+- **Push** – Sending your local commits to a remote repository on GitHub.  
+- **Pull** – Fetching changes from a remote repository and merging them into your local branch.  
+- **Remote** – A version of your repository that is hosted on the internet or a network (like GitHub).  
+- **Repository** – A storage space where your project files and their version history are kept.  
